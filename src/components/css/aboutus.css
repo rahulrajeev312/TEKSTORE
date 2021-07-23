@@ -1,0 +1,58 @@
+h1 {
+  color: chocolate;
+  align-items: end;
+  text-align: unset;
+  margin-bottom: 62px;
+}
+
+.contact-us {
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  justify-items: center;
+}
+
+.aboutus-text {
+  width: 45%;
+  margin: 11px 103px;
+  text-align: left;
+}
+.modile-area {
+  align-items: center;
+  display: flex;
+  justify-items: center;
+  justify-content: center;
+}
+.contact-us img {
+  width: 100px;
+  height: auto;
+}
+
+.contactus-text {
+  width: 45%;
+  margin: 11px 103px;
+  text-align: right;
+}
+.modile-area img {
+  width: 150px;
+  margin: 25px;
+}
+
+@media screen and (max-width: 500px) {
+  .aboutus-text {
+    width: 65%;
+    margin: 11px 10px;
+    text-align: left;
+    line-height: 25px;
+  }
+  .modile-area {
+    align-items: center;
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+  }
+  .modile-area img {
+    margin: 10px 16px;
+  }
+}
