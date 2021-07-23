@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/,github.io/TEKSTORE/precache-manifest.ad8ff5742ff29df7b9af76b5dc03a75c.js"
+  "/TEKSTORE/precache-manifest.619bb46ff6782431e393d92f4ef15f0a.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/,github.io/TEKSTORE/index.html", {
+workbox.routing.registerNavigationRoute("/TEKSTORE/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
