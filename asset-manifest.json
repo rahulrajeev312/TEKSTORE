@@ -1,7 +1,7 @@
 {
-  "main.css": "/TEKSTORE/static/css/main.534f3529.chunk.css",
-  "main.js": "/TEKSTORE/static/js/main.e8e0683f.chunk.js",
-  "main.js.map": "/TEKSTORE/static/js/main.e8e0683f.chunk.js.map",
+  "main.css": "/TEKSTORE/static/css/main.a46c3bcb.chunk.css",
+  "main.js": "/TEKSTORE/static/js/main.e2a17291.chunk.js",
+  "main.js.map": "/TEKSTORE/static/js/main.e2a17291.chunk.js.map",
   "static/css/1.a5327c20.chunk.css": "/TEKSTORE/static/css/1.a5327c20.chunk.css",
   "static/js/1.db1b3e03.chunk.js": "/TEKSTORE/static/js/1.db1b3e03.chunk.js",
   "static/js/1.db1b3e03.chunk.js.map": "/TEKSTORE/static/js/1.db1b3e03.chunk.js.map",
@@ -14,9 +14,9 @@
   "static/media/omarlulu.jpg": "/TEKSTORE/static/media/omarlulu.e70427fa.jpg",
   "static/media/whatsapp-background.jpg": "/TEKSTORE/static/media/whatsapp-background.f579b7e9.jpg",
   "static/media/5964.png": "/TEKSTORE/static/media/5964.61d74ea1.png",
-  "static/css/main.534f3529.chunk.css.map": "/TEKSTORE/static/css/main.534f3529.chunk.css.map",
+  "static/css/main.a46c3bcb.chunk.css.map": "/TEKSTORE/static/css/main.a46c3bcb.chunk.css.map",
   "static/css/1.a5327c20.chunk.css.map": "/TEKSTORE/static/css/1.a5327c20.chunk.css.map",
   "index.html": "/TEKSTORE/index.html",
-  "precache-manifest.7058f6fd6b552884a23fe2dd63dcbbfe.js": "/TEKSTORE/precache-manifest.7058f6fd6b552884a23fe2dd63dcbbfe.js",
+  "precache-manifest.f80a92cd1edb9f4e3f8ccdfbcb632259.js": "/TEKSTORE/precache-manifest.f80a92cd1edb9f4e3f8ccdfbcb632259.js",
   "service-worker.js": "/TEKSTORE/service-worker.js"
 }

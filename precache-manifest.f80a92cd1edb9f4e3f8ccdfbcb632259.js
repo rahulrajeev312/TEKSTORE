@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e8e0683f743aeaf62212",
-    "url": "/TEKSTORE/static/css/main.534f3529.chunk.css"
+    "revision": "e2a17291960987b442c6",
+    "url": "/TEKSTORE/static/css/main.a46c3bcb.chunk.css"
   },
   {
-    "revision": "e8e0683f743aeaf62212",
-    "url": "/TEKSTORE/static/js/main.e8e0683f.chunk.js"
+    "revision": "e2a17291960987b442c6",
+    "url": "/TEKSTORE/static/js/main.e2a17291.chunk.js"
   },
   {
     "revision": "db1b3e03af31645f9c50",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/TEKSTORE/static/media/5964.61d74ea1.png"
   },
   {
-    "revision": "2fe733542ae2332c68cbc09863935e03",
+    "revision": "7ee823ead20aab22e4a355027c2febd9",
     "url": "/TEKSTORE/index.html"
   }
 ];
