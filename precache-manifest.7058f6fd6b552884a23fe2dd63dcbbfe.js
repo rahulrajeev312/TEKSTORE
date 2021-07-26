@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "d3d8a98ae332e4129222",
-    "url": "/TEKSTORE/static/css/main.92eff9fd.chunk.css"
+    "revision": "e8e0683f743aeaf62212",
+    "url": "/TEKSTORE/static/css/main.534f3529.chunk.css"
   },
   {
-    "revision": "d3d8a98ae332e4129222",
-    "url": "/TEKSTORE/static/js/main.d3d8a98a.chunk.js"
+    "revision": "e8e0683f743aeaf62212",
+    "url": "/TEKSTORE/static/js/main.e8e0683f.chunk.js"
   },
   {
-    "revision": "8b42cd8b9ede53e3e64b",
-    "url": "/TEKSTORE/static/css/1.1a894cd3.chunk.css"
+    "revision": "db1b3e03af31645f9c50",
+    "url": "/TEKSTORE/static/css/1.a5327c20.chunk.css"
   },
   {
-    "revision": "8b42cd8b9ede53e3e64b",
-    "url": "/TEKSTORE/static/js/1.8b42cd8b.chunk.js"
+    "revision": "db1b3e03af31645f9c50",
+    "url": "/TEKSTORE/static/js/1.db1b3e03.chunk.js"
   },
   {
     "revision": "1d3bae6e384e49c5045c",
@@ -44,7 +44,11 @@ self.__precacheManifest = [
     "url": "/TEKSTORE/static/media/whatsapp-background.f579b7e9.jpg"
   },
   {
-    "revision": "d96ac72d7a1be865b0239018e612ed72",
+    "revision": "61d74ea14cf0957bf3453ebe6b02f605",
+    "url": "/TEKSTORE/static/media/5964.61d74ea1.png"
+  },
+  {
+    "revision": "2fe733542ae2332c68cbc09863935e03",
     "url": "/TEKSTORE/index.html"
   }
 ];
