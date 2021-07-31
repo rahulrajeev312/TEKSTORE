@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/TEKSTORE/precache-manifest.f80a92cd1edb9f4e3f8ccdfbcb632259.js"
+  "/TEKSTORE/precache-manifest.3a5238ab1b5ae5b3140e08f0c6e73ffc.js"
 );
 
 workbox.clientsClaim();

@@ -1,10 +1,10 @@
 {
-  "main.css": "/TEKSTORE/static/css/main.a46c3bcb.chunk.css",
-  "main.js": "/TEKSTORE/static/js/main.e2a17291.chunk.js",
-  "main.js.map": "/TEKSTORE/static/js/main.e2a17291.chunk.js.map",
+  "main.css": "/TEKSTORE/static/css/main.382546b5.chunk.css",
+  "main.js": "/TEKSTORE/static/js/main.9f3d4135.chunk.js",
+  "main.js.map": "/TEKSTORE/static/js/main.9f3d4135.chunk.js.map",
   "static/css/1.a5327c20.chunk.css": "/TEKSTORE/static/css/1.a5327c20.chunk.css",
-  "static/js/1.db1b3e03.chunk.js": "/TEKSTORE/static/js/1.db1b3e03.chunk.js",
-  "static/js/1.db1b3e03.chunk.js.map": "/TEKSTORE/static/js/1.db1b3e03.chunk.js.map",
+  "static/js/1.6692d6e2.chunk.js": "/TEKSTORE/static/js/1.6692d6e2.chunk.js",
+  "static/js/1.6692d6e2.chunk.js.map": "/TEKSTORE/static/js/1.6692d6e2.chunk.js.map",
   "runtime~main.js": "/TEKSTORE/static/js/runtime~main.1d3bae6e.js",
   "runtime~main.js.map": "/TEKSTORE/static/js/runtime~main.1d3bae6e.js.map",
   "static/media/watchos.gif": "/TEKSTORE/static/media/watchos.5f0d9cd3.gif",
@@ -13,10 +13,9 @@
   "static/media/jumanakhan.jpg": "/TEKSTORE/static/media/jumanakhan.4fd63c10.jpg",
   "static/media/omarlulu.jpg": "/TEKSTORE/static/media/omarlulu.e70427fa.jpg",
   "static/media/whatsapp-background.jpg": "/TEKSTORE/static/media/whatsapp-background.f579b7e9.jpg",
-  "static/media/5964.png": "/TEKSTORE/static/media/5964.61d74ea1.png",
-  "static/css/main.a46c3bcb.chunk.css.map": "/TEKSTORE/static/css/main.a46c3bcb.chunk.css.map",
+  "static/css/main.382546b5.chunk.css.map": "/TEKSTORE/static/css/main.382546b5.chunk.css.map",
   "static/css/1.a5327c20.chunk.css.map": "/TEKSTORE/static/css/1.a5327c20.chunk.css.map",
   "index.html": "/TEKSTORE/index.html",
-  "precache-manifest.f80a92cd1edb9f4e3f8ccdfbcb632259.js": "/TEKSTORE/precache-manifest.f80a92cd1edb9f4e3f8ccdfbcb632259.js",
+  "precache-manifest.3a5238ab1b5ae5b3140e08f0c6e73ffc.js": "/TEKSTORE/precache-manifest.3a5238ab1b5ae5b3140e08f0c6e73ffc.js",
   "service-worker.js": "/TEKSTORE/service-worker.js"
 }
